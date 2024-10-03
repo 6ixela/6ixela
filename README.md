@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+    <img src="pp_github.jpeg" width="800" height="400" alt="From H4de421" />
+</div>
 
 <!--
 **6ixela/6ixela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
