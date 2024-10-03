@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="pp_github.jpeg" width="800" height="400" alt="From H4de421" />
+    <img src="pp_github.jpeg" width="1000" height="300" alt="From H4de421" />
 </div>
 
 <!--
